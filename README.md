@@ -2,16 +2,18 @@
 
 ### I'm Matteo.
 
-I'm an aspiring data scientist, always looking for new challenges and experiences. Through my experience, I have developed a strong proficiency in data analysis and visualization, allowing me to accurately interpret and present complex data sets.
+I'm an aspiring data scientist, always looking for new challenges and experiences. Through my experience, I have developed a strong proficiency in data analysis, visualization, and machine learning allowing me to accurately interpret and present complex data sets.
 
 My passion for data and analytics drives me to constantly seek out impactful projects that allow me to apply my skills and contribute to improving the world around us. My curiosity and desire to learn have led me to keep my knowledge up-to-date, experimenting with new technologies and cutting-edge approaches.
 
 I believe that data holds the key to the future, and I am excited to contribute to projects that can make a difference. I am open to new opportunities and partnerships and would be delighted to work with you to achieve our common goals.
 
-* 🌍  I'm based in Paris  
+* 🌍  I'm based in Paris
+* 👀  Check out my portfolio at [My Portfolio](https://www.datascienceportfol.io/matteopiaccione)
+* ✉️  You can contact me at [piaccione.matteo@gmail.com](mailto:piaccione.matteo@gmail.com)  
 * 🧠  I'm learning more on ML and DL
 * 🤝  I'm open to collaborating on interesting projects
-* ✉️  You can contact me at [piaccione.matteo@gmail.com](mailto:piaccione.matteo@gmail.com)
+
 
 ### Skills  
 
