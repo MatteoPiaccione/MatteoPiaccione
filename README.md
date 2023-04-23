@@ -31,7 +31,7 @@ I believe that data holds the key to the future, and I am excited to contribute 
   
   <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Statsmodels" /></a>
   
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Scikitlearn" /></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/2560px-Scikit_learn_logo_small.svg.png" width="36" height="36" alt="Scikitlearn" /></a>
   
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> </p>
   
