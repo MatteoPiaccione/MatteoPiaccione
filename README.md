@@ -18,10 +18,11 @@ I believe that data holds the key to the future, and I am excited to contribute 
 
 ### Certifications
 
-<p align="left"> <a href="[https://www.python.org/](https://www.datacamp.com/certificate/DAA0018306197130)" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/Certification%20Icons/DAA%20badge.png" width="120" height="145" alt="DAA" /></a></p>
+<p align="left"> <a href="[https://www.python.org/](https://www.datacamp.com/certificate/DAA0018306197130)" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/Certification%20Icons/DAA%20badge.png" width="120" height="145" alt="DAA" /></a>
+ <a href="https://www.datacamp.com/certificate/DSA0014725103384" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/Certification%20Icons/DSA%20badge.png" width="120" height="145" alt="DsA" /></a></p>
 
 
-### Skills  
+### Skills
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/numpy-logo-479C24EC79-seeklogo.com.png" width="36" height="36" alt="Numpy" /></a>  
