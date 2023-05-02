@@ -20,7 +20,7 @@ I believe that data holds the key to the future, and I am excited to contribute 
 
 <p align="left"> <a href="[https://www.python.org/](https://www.datacamp.com/certificate/DAA0018306197130)" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/Certification%20Icons/DAA%20badge.png" width="120" height="145" alt="DAA" /></a>
  <a href="https://www.datacamp.com/certificate/DSA0014725103384" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/Certification%20Icons/DSA%20badge.png" width="120" height="145" alt="DSA" /></a>
- <a href="https://www.datacamp.com/certificate/DEA0013589231133" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/Certification%20Icons/DEA%20badge.png" width="120" height="145" alt="DEA" /></a>
+ <a href="https://www.datacamp.com/certificate/DEA0013589231133" target="_blank" rel="noreferrer"><img src="" width="120" height="145" alt="DEA" /></a>
 </p>
 
 
