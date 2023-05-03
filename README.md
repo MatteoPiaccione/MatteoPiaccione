@@ -8,6 +8,8 @@ My passion for data and analytics drives me to constantly seek out impactful pro
 
 I believe that data holds the key to the future, and I am excited to contribute to projects that can make a difference. I am open to new opportunities and partnerships and would be delighted to work with you to achieve our common goals.
 
+Let's make a difference together one analysis at a time!
+
 * 🌍  I'm based in Paris
 * 🔎  Check out my [Portfolio](https://www.datascienceportfol.io/matteopiaccione)
 * 👀  Take also a look at my [DataCamp profile](https://app.datacamp.com/profile/matteopiaccione)
