@@ -14,7 +14,7 @@ Let's make a difference together one analysis at a time!
 * 🔎  Check out my [Portfolio](https://www.datascienceportfol.io/matteopiaccione)
 * 👀  Take also a look at my [DataCamp profile](https://app.datacamp.com/profile/matteopiaccione)
 * ✉️  You can contact me at [piaccione.matteo@gmail.com](mailto:piaccione.matteo@gmail.com)  
-* 🧠  I'm learning more on ML and DL
+* 🧠  I'm learning more on NLP and DL
 * 🤝  I'm open to collaborating on interesting projects
 
 
