@@ -36,10 +36,16 @@ Let's make a difference together one analysis at a time!
 <a href="https://plotly.com" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/5997976.png" width="36" height="36" alt="Plotly" /></a> 
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/statsmodels-прозр-600-350.png" width="36" height="36" alt="Statsmodels" /></a>
 <a href="https://scipy.org" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/1200px-SCIPY_2.svg.png" width="36" height="36" alt="Scipy" /></a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/2560px-Scikit_learn_logo_small.svg.png" width="50" height="36" alt="Scikitlearn" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/2560px-Scikit_learn_logo_small.svg.png" width="60" height="36" alt="Scikitlearn" /></a>
+<a href="https://www.tensorflow.org"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/icons8-tensorflow-480.png" width="36" height="36" alt="TensorFlow" /></a> 
+<a href="https://keras.io"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/1024px-Keras_logo.svg.png" width="36" height="36" alt="Keras" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/pytorch_logo_icon_170820.png" width="36" height="36" alt="Pytorch" /></a> 
+<a href="https://spacy.io" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/SpaCy_logo.svg.png" width="66" height="36" alt="spaCy" /></a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/Git_icon.svg.png" width="36" height="36" alt="Git" /></a> 
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/logo-tableau-cirkel.png" width="36" height="36" alt="Tableau" /></a> </p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/Git_icon.svg.png" width="36" height="36" alt="Git" /></a>
+<a href="https://powerbi.microsoft.com/en-gb/" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/pngegg.png" width="36" height="36" alt="PowerBI" /></a> 
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://github.com/MatteoPiaccione/MatteoPiaccione/blob/main/logos/logo-tableau-cirkel.png" width="36" height="36" alt="Tableau" /></a> 
+</p>
   
 
 <!--
